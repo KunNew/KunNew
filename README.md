@@ -9,7 +9,7 @@
 <h3>Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,vue,,nuxt,git,nodejs,postman,tailwind,vscode,vercel,vite,sass,prisma,mysql,md,express"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,vue,nuxt,git,nodejs,postman,tailwind,vscode,vercel,vite,sass,prisma,mongo,mysql,md,express"/>
 </p>
 
 
