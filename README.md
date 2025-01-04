@@ -1,9 +1,8 @@
 ## Hi there 👋, I'm Kun
 ### A teenager who loves programming
 
-- 🔭 I’m currently working on **IT-DEv**
 - 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **react, next.js, node.js**
+- 💬 Ask me about **react, next.js, vue.js, node.js**
 - 📫 How to reach me: **kunnew20@gmail.com**
 
 <h3>Languages and Tools:</h3>
