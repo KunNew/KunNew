@@ -8,7 +8,7 @@
 <h3>Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,tailwind,git,nodejs,flutter,postman,vscode,vercel,vite,prisma,mongo,mysql,md,express"/>
+<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,tailwind,git,nodejs,flutter,postman,vscode,vercel,vite,prisma,mongo,md,golang,express"/>
 </p>
 
 
